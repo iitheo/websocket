@@ -1,2 +1,2 @@
-# websocket
+# Websocket in Go
 Websockets in Go
